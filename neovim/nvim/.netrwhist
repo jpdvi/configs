@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/jpdvi/Projects/c1/assessments/app/api/identity/resources'
+let g:netrw_dirhist_5='/Users/jpdvi/Projects/c1/assessments/app/api/identity'
+let g:netrw_dirhist_4='/Users/jpdvi/Projects/c1/assessments/app/api'
+let g:netrw_dirhist_3='/Users/jpdvi/Projects/c1/assessments/app'
+let g:netrw_dirhist_2='/Users/jpdvi/Projects/c1/assessments/app/api/identity/resources'
+let g:netrw_dirhist_1='/Users/jpdvi/Projects/c1/assessments/app/api/identity'
+let g:netrw_dirhist_0='/Users/jpdvi/Projects/c1/assessments/app/api/identity/resources'
+let g:netrw_dirhist_9='/Users/jpdvi/Projects/c1/assessments/app/api/identity'
+let g:netrw_dirhist_8='/Users/jpdvi/Projects/c1/assessments/app/common'
+let g:netrw_dirhist_7='/Users/jpdvi/Projects/c1/assessments/app/data/models'
