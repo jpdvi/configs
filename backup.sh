@@ -4,4 +4,4 @@ GIT=`which git`
 ${GIT} add .
 DT=$(date +%d.%m.%y-%H:%M:%S)
 ${GIT} commit -m $DT
-${GIT} push origin master
+${GIT} push origin master -f
